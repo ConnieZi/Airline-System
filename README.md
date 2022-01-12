@@ -1,17 +1,3 @@
-# CS 1501 – Algorithm Implementation – Assignment #4
-
-_(Assignment adapted from Dr. John Ramirez’s CS 1501 class.)_
-
-Due: Monday December 20th @ 11:59pm on Gradescope
-
-_There is no late submission deadline for this assignment._
-
-## Overview
-
-Purpose: The purpose of this assignment is to make you practice implementing some graph
-algorithms and to see how they can be used in a somewhat practical way.
-
-**Feel free to use as much code as you need from Lab 8 and Lab 9.**
 
 ## Details
 
