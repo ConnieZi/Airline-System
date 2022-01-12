@@ -1,3 +1,5 @@
+**This program is adapt from the assignment of cs1501 in University of Pittsburgh
+
 Represent the graph using **adjacency lists**. For example,  for the shortest distance paths, **Dijkstra’s algorithm** is used and to obtain the shortest-hops path **breadth-first search** is used.
 
 . The test program `AirlineTest.java` has a menu-driven loop that asks the user for many choices. 
